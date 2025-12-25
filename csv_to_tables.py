@@ -38,4 +38,4 @@ with open("students.csv", "r") as file:
 conn.commit()
 conn.close()
 
-print("✅ CSV file has been successfully imported into MySQL database!")
+print("CSV file has been successfully imported into MySQL database!")
